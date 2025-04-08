@@ -2,3 +2,8 @@ pandas
 numpy
 flask
 openai
+flask-cors
+scikit-learn
+sentence-transformers
+openpyxl
+python-dotenv
